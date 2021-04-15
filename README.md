@@ -1,2 +1,2 @@
 # myproject
-web apps
+A simple  dynamic website 
